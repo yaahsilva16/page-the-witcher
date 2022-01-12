@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(imagens/the\ witcher\ hell.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.home {
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    
+}
+
+.logo {
+    margin-left: 60px;
+    height: 50px;
+    width: 50px;
+}
+
+
+.universo {
+    color: white;
+    margin-left: 500px;
+    padding: 5px;
+}
+
+.universo:hover {
+    font-weight: bold;
+}
+
+.atores {
+    color: white;
+}
+
+.atores:hover {
+    font-weight: bold;
+}
+
+.temporadas {
+    color: white;
+}
+
+.temporadas:hover {
+    font-weight: bold;
+}
+
+.comunidades {
+    color: white;
+}
+
+.comunidades:hover {
+    font-weight: bold;
+}
+
+main {
+    display: inline-block;
+    color: white;
+}
+.rapaz {
+    background-image: url(imagens/the\ witcher\ kavil2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:590px;
+    width: 390px;
+    margin-left: 100%;
+}
+
+.logo2 {
+    height: 130px;
+    margin-top: 260px;
+    margin-left: 80px;
+}
+
+.botao {
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+.paragraph {
+    font-size: 10px;
+}
